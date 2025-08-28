@@ -1,0 +1,99 @@
+copy this and use mysql for the database:
+
+
+
+-- Create Database
+CREATE DATABASE IF NOT EXISTS MaintenanceSystem;
+USE MaintenanceSystem;
+
+-- 1. Users Table
+CREATE TABLE Users (
+    UserID INT AUTO_INCREMENT PRIMARY KEY,
+    FullName VARCHAR(100) NOT NULL,
+    Username VARCHAR(50) NOT NULL UNIQUE,
+    Password VARCHAR(255) NOT NULL,
+    Role ENUM('Admin', 'Staff') NOT NULL
+);
+
+-- 2. Technicians Table
+CREATE TABLE Technicians (
+    TechnicianID INT AUTO_INCREMENT PRIMARY KEY,
+    FullName VARCHAR(100) NOT NULL,
+    Specialization VARCHAR(100),
+    Phone VARCHAR(20),
+    Status ENUM('Allowed', 'Not Allowed') DEFAULT 'Allowed'
+);
+
+-- 3. Requests Table
+CREATE TABLE Requests (
+    RequestID INT AUTO_INCREMENT PRIMARY KEY,
+    Title VARCHAR(150) NOT NULL,
+    Description TEXT,
+    Status ENUM('New', 'In Progress', 'Completed', 'Cancelled') DEFAULT 'New',
+    CreatedDate DATETIME DEFAULT CURRENT_TIMESTAMP,
+    CreatedBy INT,
+    IsPaid ENUM('Yes', 'No') DEFAULT 'No',
+    FOREIGN KEY (CreatedBy) REFERENCES Users(UserID) ON DELETE SET NULL
+);
+
+-- 4. RequestTechnicians Table (Many-to-Many between Requests and Technicians)
+CREATE TABLE RequestTechnicians (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    RequestID INT NOT NULL,
+    TechnicianID INT NOT NULL,
+    AssignedDate DATETIME DEFAULT CURRENT_TIMESTAMP,
+    CompletionDate DATETIME NULL,
+    Notes TEXT,
+    FOREIGN KEY (RequestID) REFERENCES Requests(RequestID) ON DELETE CASCADE,
+    FOREIGN KEY (TechnicianID) REFERENCES Technicians(TechnicianID) ON DELETE CASCADE
+);
+
+-- 5. Warehouses Table
+CREATE TABLE Warehouses (
+    WarehouseID INT AUTO_INCREMENT PRIMARY KEY,
+    WarehouseName VARCHAR(100) NOT NULL,
+    Location VARCHAR(255),
+    Manager INT NULL,
+    FOREIGN KEY (Manager) REFERENCES Users(UserID) ON DELETE SET NULL
+);
+
+-- 6. Parts Table
+CREATE TABLE Parts (
+    PartID INT AUTO_INCREMENT PRIMARY KEY,
+    PartName VARCHAR(100) NOT NULL,
+    Quantity INT DEFAULT 0,
+    Price DECIMAL(10,2) DEFAULT 0.00,
+    WarehouseID INT,
+    FOREIGN KEY (WarehouseID) REFERENCES Warehouses(WarehouseID) ON DELETE CASCADE
+);
+
+-- 7. RequestParts Table (Many-to-Many between Requests and Parts)
+CREATE TABLE RequestParts (
+    ID INT AUTO_INCREMENT PRIMARY KEY,
+    RequestID INT NOT NULL,
+    PartID INT NOT NULL,
+    QuantityUsed INT NOT NULL,
+    FOREIGN KEY (RequestID) REFERENCES Requests(RequestID) ON DELETE CASCADE,
+    FOREIGN KEY (PartID) REFERENCES Parts(PartID) ON DELETE CASCADE
+);
+
+-- 8. MaintenanceSchedules Table
+CREATE TABLE MaintenanceSchedules (
+    ScheduleID INT AUTO_INCREMENT PRIMARY KEY,
+    EquipmentName VARCHAR(150) NOT NULL,
+    Frequency ENUM('Weekly', 'Monthly', 'Quarterly', 'Yearly') NOT NULL,
+    NextDate DATE NOT NULL,
+    TechnicianID INT,
+    FOREIGN KEY (TechnicianID) REFERENCES Technicians(TechnicianID) ON DELETE SET NULL
+);
+
+-- 9. Payments Table
+CREATE TABLE Payments (
+    PaymentID INT AUTO_INCREMENT PRIMARY KEY,
+    RequestID INT NOT NULL,
+    Amount DECIMAL(10,2) NOT NULL,
+    PaymentDate DATETIME DEFAULT CURRENT_TIMESTAMP,
+    PaymentMethod ENUM('Cash', 'Card', 'Bank Transfer') NOT NULL,
+    Status ENUM('Paid', 'Pending', 'Cancelled') DEFAULT 'Pending',
+    FOREIGN KEY (RequestID) REFERENCES Requests(RequestID) ON DELETE CASCADE
+);

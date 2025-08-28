@@ -1,0 +1,99 @@
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\MaintenanceDesk.exe.config
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\MaintenanceDesk.exe
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\MaintenanceDesk.pdb
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\Google.Protobuf.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\Guna.UI2.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\MySql.Data.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Buffers.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.IO.Pipelines.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Memory.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\ZstdSharp.dll
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\Google.Protobuf.pdb
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\Google.Protobuf.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\MySql.Data.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Buffers.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.IO.Pipelines.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Memory.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.csprojAssemblyReference.cache
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.ResetPasswordForm.resources
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.Login.resources
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.Properties.Resources.resources
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.csproj.GenerateResource.cache
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.csproj.CoreCompileInputs.cache
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.csproj.CopyComplete
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.exe
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.pdb
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.RegisterForm.resources
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.AdminDashboard.resources
+C:\Users\City Tech\source\repos\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.DashboardForm.resources
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\MaintenanceDesk.exe.config
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\MaintenanceDesk.exe
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\MaintenanceDesk.pdb
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\Google.Protobuf.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\Guna.UI2.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\MySql.Data.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\ZstdSharp.dll
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\Google.Protobuf.pdb
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\Google.Protobuf.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\MySql.Data.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.exe.config
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.AdminDashboard.resources
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.DashboardForm.resources
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.ResetPasswordForm.resources
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.Login.resources
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.Properties.Resources.resources
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.RegisterForm.resources
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\Maintena.DFBB005C.Up2Date
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.exe
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.pdb
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.Users.resources
+C:\Users\Admin\Desktop\MaintenanceDesk\MaintenanceDesk\obj\Debug\MaintenanceDesk.Technicians.resources
